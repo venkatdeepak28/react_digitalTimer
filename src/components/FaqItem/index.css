@@ -1,0 +1,30 @@
+/* Write your code here. */
+.text-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.inner-heading {
+  font-size: 22px;
+  margin-right: 60%;
+  font-family: 'Roboto';
+  color: #52606d;
+}
+.custom-btn {
+  margin-left: 24px;
+  background-color: transparent;
+  border: 0;
+}
+.list-el {
+  padding-left: 16px;
+  padding-right: 16px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  margin-right: 16px;
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+}
+.para {
+  font-family: 'Roboto';
+  color: #9aa5b1;
+}
